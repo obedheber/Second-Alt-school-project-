@@ -36,5 +36,13 @@ Apache2 is ready for hosting
 
 # Networking Configuration
 
+*Under AWS console i clicked on Network and Security then under it i clicked inbound rules after which clicked on edit inbound rule.
+
+*Then i add a new rule by selecting "Custom TCP", set the port to "80", then the IP to "Anywhere IPv4" and i saved the rule.
+
+# The Public IP Address.
+
+Public Ip address:54.174.248.133
+
 
 
