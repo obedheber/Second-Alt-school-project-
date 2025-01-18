@@ -38,7 +38,7 @@ Public Ip address:54.174.248.133
 
 # Screenshot
 
-!(img alt) 
+!(img alt) https://github.com/obedheber/Second-Alt-school-project-/blob/a5567700799451c253b45a6b05575ca873d35ba0/screenshot.md
 
 
 
